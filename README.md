@@ -14,7 +14,7 @@ Jupyter notebook with support for geospatial analyses with Planet API. Everythin
 The following command starts a container with the Notebook server listening for HTTP connections on port 8888 with a randomly generated authentication token configured. The current folder is mapped to the server.
 
 ```bash
-docker run -it --rm -p 8888:8888 -v $PWD:/home/jovyan -e PL_API_KEY='[YOUR-API-KEY]' krostir/jupyter-geo-planet
+docker run -it --rm -p 8888:8888 -v $PWD/:/home/jovyan -e PL_API_KEY='[YOUR-API-KEY]' krostir/jupyter-geo-planet
 ```
 
 PL_API_KEY is the Planet API authenticating key.
