@@ -3,6 +3,7 @@
 Jupyter notebook with support for geospatial analyses with Planet API. Everything that gives [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook) and more:
 
 * [GDAL](http://www.gdal.org/)
+* [rasterio](https://mapbox.github.io/rasterio/)
 * [Planet](https://github.com/planetlabs/planet-client-python)
 
 ## System Prerequisites
