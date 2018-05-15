@@ -1,4 +1,4 @@
-# Jupyter Notebook for Planet Data Analysis
+# Jupyter Notebook Planet Data Analysis
 
 Jupyter notebook with support for geospatial analyses with Planet API. Everything that gives [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook) and more:
 
